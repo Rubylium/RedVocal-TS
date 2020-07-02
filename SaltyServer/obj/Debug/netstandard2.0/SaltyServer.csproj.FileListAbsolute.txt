@@ -9,3 +9,14 @@ F:\dev\saltychat\SaltyServer\obj\Debug\netstandard2.0\SaltyServer.AssemblyInfo.c
 F:\dev\saltychat\SaltyServer\obj\Debug\netstandard2.0\SaltyServer.csproj.CopyComplete
 F:\dev\saltychat\SaltyServer\obj\Debug\netstandard2.0\SaltyServer.net.dll
 F:\dev\saltychat\SaltyServer\obj\Debug\netstandard2.0\SaltyServer.net.pdb
+F:\dev\RedVocal-TS\SaltyServer\bin\Debug\netstandard2.0\SaltyServer.net.deps.json
+F:\dev\RedVocal-TS\SaltyServer\bin\Debug\netstandard2.0\SaltyServer.net.dll
+F:\dev\RedVocal-TS\SaltyServer\bin\Debug\netstandard2.0\SaltyServer.net.pdb
+F:\dev\RedVocal-TS\SaltyServer\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+F:\dev\RedVocal-TS\SaltyServer\obj\Debug\netstandard2.0\SaltyServer.csprojAssemblyReference.cache
+F:\dev\RedVocal-TS\SaltyServer\obj\Debug\netstandard2.0\SaltyServer.csproj.CoreCompileInputs.cache
+F:\dev\RedVocal-TS\SaltyServer\obj\Debug\netstandard2.0\SaltyServer.AssemblyInfoInputs.cache
+F:\dev\RedVocal-TS\SaltyServer\obj\Debug\netstandard2.0\SaltyServer.AssemblyInfo.cs
+F:\dev\RedVocal-TS\SaltyServer\obj\Debug\netstandard2.0\SaltyServer.csproj.CopyComplete
+F:\dev\RedVocal-TS\SaltyServer\obj\Debug\netstandard2.0\SaltyServer.net.dll
+F:\dev\RedVocal-TS\SaltyServer\obj\Debug\netstandard2.0\SaltyServer.net.pdb
