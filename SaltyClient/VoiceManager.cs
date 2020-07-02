@@ -663,6 +663,7 @@ namespace SaltyClient
             //Game.DisableControlThisFrame(0, Control.VehiclePushbikeSprint);
             //Game.DisableControlThisFrame(0, Control.SpecialAbilitySecondary);
 
+
             if (Game.Player.IsAlive)
             {
                 Ped playerPed = Game.PlayerPed;
