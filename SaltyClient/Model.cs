@@ -268,7 +268,7 @@ namespace SaltyClient
 
         public bool ShouldSerializeVoiceRange() => this.VoiceRange.HasValue;
 
-        public bool ShouldSerializeIsAlive() => this.IsAlive;
+        public bool ShouldSerializeIsAlive() => !this.IsAlive;
 
         public bool ShouldSerializeVolumeOverride() => this.VolumeOverride.HasValue;
 
